@@ -1,0 +1,13 @@
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\bin\Debug\netcoreapp3.1\SnakeOP.exe
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\bin\Debug\netcoreapp3.1\SnakeOP.deps.json
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\bin\Debug\netcoreapp3.1\SnakeOP.runtimeconfig.json
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\bin\Debug\netcoreapp3.1\SnakeOP.runtimeconfig.dev.json
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\bin\Debug\netcoreapp3.1\SnakeOP.dll
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\bin\Debug\netcoreapp3.1\SnakeOP.pdb
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.csprojAssemblyReference.cache
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.AssemblyInfoInputs.cache
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.AssemblyInfo.cs
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.csproj.CoreCompileInputs.cache
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.dll
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.pdb
+C:\Users\genne\source\repos\SnakeOP\SnakeOP\obj\Debug\netcoreapp3.1\SnakeOP.genruntimeconfig.cache
